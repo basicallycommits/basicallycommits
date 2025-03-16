@@ -1,19 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vincent 👋
 
-### Profile page is a WIP 😅
+## 🛠️ About Me
 
-<!-- used as a tutorial: https://www.sitepoint.com/github-profile-readme/ -->
+- ⚡ Electrical & Electronics Engineering student @ University of Auckland
+- 💻 Personal interest in software development
+- 🎓 Passionate about learning and deepening my understanding of technologies
+- 📚 Tutoring high school subjects at MyTuition
+- 🗒️ Interested in effective note-taking with Obsidian and OneNote
 
-<div id="header" align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/vincent-walker-931531247">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=basicallycommits&style=flat-square&color=blue" alt=""/>
-</div>
+## 📫 How to reach me:
 
+- 📧 Email: vincent.swdev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/basically-just-vincent/)
+
+## 📂 Projects
+
+| Project Name             | Description                                         | Tech Stack         |
+|-----------------|----------------------------------------------------|----------------|
+| 🤖 [EscAIpe Room Video Game](https://github.com/yourusername/spotify-lyrics-opener) | “Escape Room” themed video game that challenges players' thinking skills with puzzles and utilises AI-generated text interactions | Java, JavaFX, CSS, OpenAI API |
+| ♻️ [Freecycling Website - High-Fidelity Prototype](https://github.com/yourusername/ig-to-discord) |  A responsive, aesthetically pleasing UI for a website that promotes recycling | HTML, CSS, JS |
