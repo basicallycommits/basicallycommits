@@ -10,8 +10,8 @@
 
 ## 📫 How to reach me:
 
-- 📧 \[Email to be added, sorry for the inconvenience\]
-- 💼 [LinkedIn](https://www.linkedin.com/in/basically-just-vincent/)
+- 📧 \[Email to be added; sorry for the inconvenience\]
+- 💼 Feel free to reach out @ [LinkedIn](https://www.linkedin.com/in/basically-just-vincent/)
 
 ## 📂 Projects
 
