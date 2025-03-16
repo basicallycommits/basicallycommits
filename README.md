@@ -10,7 +10,7 @@
 
 ## 📫 How to reach me:
 
-- 📧 Email: vincent.wcontacts@gmail.com
+- 📧 vincent.wcontacts@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/basically-just-vincent/)
 
 ## 📂 Projects
