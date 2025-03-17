@@ -18,4 +18,4 @@
 | Project Name             | Description                                         | Tech Stack         |
 |-----------------|----------------------------------------------------|----------------|
 | 🤖 [EscAIpe Room Video Game](https://github.com/yourusername/spotify-lyrics-opener) | “Escape Room” themed video game that challenges players' thinking skills with puzzles and utilises AI-generated text interactions | Java, JavaFX, CSS, OpenAI API |
-| ♻️ [Freecycling Website - High-Fidelity Prototype](https://github.com/yourusername/ig-to-discord) |  A responsive, aesthetically pleasing UI for a website that promotes recycling | HTML, CSS, JS |
+| ♻️ [Freecycling Website—High-Fidelity Prototype](https://github.com/yourusername/ig-to-discord) |  A responsive, aesthetically pleasing UI for a website that promotes recycling | HTML, CSS, JS |
