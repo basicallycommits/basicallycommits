@@ -10,7 +10,7 @@
 
 ## 📫 How to reach me:
 
-- 📧 \[Email to be added; sorry for the inconvenience\]
+- 📧 vnlw.work@gmail.com
 - 💼 Feel free to reach out @ [LinkedIn](https://www.linkedin.com/in/basically-just-vincent/)
 
 ## 📂 Projects
