@@ -22,3 +22,4 @@
 | ♻️ [Freecycling Website—High-Fidelity Prototype](https://github.com/basicallycommits/freecycling-website-hfp) |  A responsive, aesthetically pleasing UI for a website that promotes recycling. | HTML, CSS, JS | ✅ Published |
 | 💙 [AUSA Wellbeing Tracker](https://github.com/UoaWDCC/ausa) |   **Client**: Auckland University Students' Association (AUSA). **Product**: A web app that enables University of Auckland students to seamlessly access and navigate all Health and Counselling services to support mental wellbeing. | Next.js, YamadaUI, TypeScript, Firebase, TSOA, Express.js | 🚀&nbsp;In&nbsp;Progress |
 | 🌐 [Personal Website](https://basically-website.vercel.app/) | This is my personal website, showcasing my projects, interests, and more. | React, Vite, TailwindCSS | ✅ Published |
+| 🐦 Flappy Bird on FPGA | "Flappy Bird"-inspired game implemented on a DE0-CV board. | VHDL, Cyclone V | 🚀&nbsp;In&nbsp;Progress |
